@@ -1,0 +1,10 @@
+- https://www.youtube.com/watch?v=gvbVjJnv-b8
+- https://www.youtube.com/watch?v=3ZAKY-CDKog
+- https://stackoverflow.com/questions/38295722/how-do-you-serve-css-in-a-node-js-application
+- https://www.geeksforgeeks.org/node-js-response-writehead-method/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+- https://stackoverflow.com/questions/4720343/loading-basic-html-in-node-js
+- https://nodejs.org/api/http.html#responsewriteheadstatuscode-statusmessage-headers
+- https://www.youtube.com/watch?v=nuw48-u3Yrg
+- https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch
+- https://www.reddit.com/r/learnprogramming/comments/122p9tv/fullstack_web_app_without_any_framework/
